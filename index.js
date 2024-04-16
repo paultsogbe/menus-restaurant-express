@@ -141,7 +141,6 @@ app.get("/", (req, res) => {
             price: "10.40"
           },
 
-          {},
           {
             id: "1519055545-91",
             title: "Fromage blanc bio au miel",
@@ -151,7 +150,6 @@ app.get("/", (req, res) => {
             Popular: true,
           },
 
-          {},
           {
             id: "1519055545-92",
             title: "Granola parfait bio",
@@ -161,8 +159,6 @@ app.get("/", (req, res) => {
               "https://f.roocdn.com/images/menu_items/1323271/item-image.jpg",
             popular: true
           },
-
-          {},
 
           {
             id: "1519055545-93",
@@ -174,8 +170,6 @@ app.get("/", (req, res) => {
             price: "6.60",
             picture:"https://img.freepik.com/photos-gratuite/delicieuses-tranches-cereales-banane-angle-eleve_23-2148877642.jpg?w=1060&t=st=1712927635~exp=1712928235~hmac=a99e4df2655aa24b6ddc0972612e18a888ce310c15001bb499304138fbb2bba1",
           },
-
-          {},
           {
             id: "1519055545-137",
             "web-scraper-start-url":
@@ -186,9 +180,6 @@ app.get("/", (req, res) => {
             picture:
               "https://f.roocdn.com/images/menu_items/2549378/item-image.jpg"
           },
-
-
-          {},
           {
             id: "1519055545-95",
             "web-scraper-start-url":
@@ -199,8 +190,6 @@ app.get("/", (req, res) => {
             price: "6.60",
             picture: "https://m1.zeste.ca/serdy-m-dia-inc/image/upload/f_auto/fl_lossy/q_auto:eco/x_0,y_578,w_5663,h_3186,c_crop/w_1200,h_630,c_fill/v1711132021/foodlavie/prod/articles/top-omelettes-faciles-a-realiser-au-four-ou-a-la-poele-b9a83ee8",
           },
-
-          {},
           {
             id: "1519055545-96",
             "web-scraper-start-url":
@@ -212,7 +201,6 @@ app.get("/", (req, res) => {
             picture: "https://www.shutterstock.com/shutterstock/photos/386396512/display_1500/stock-photo-breakfast-kiwi-smoothie-bowl-topped-with-oat-flakes-and-berries-isolated-on-white-background-top-386396512.jpg",
             popular: true
           },
-          {},
           {
             id: "1519055545-97",
             "web-scraper-start-url":
@@ -242,8 +230,6 @@ app.get("/", (req, res) => {
             picture:
               "https://f.roocdn.com/images/menu_items/1323282/item-image.jpg"
           },
-
-          {},
           {
             id: "1519055545-99",
             "web-scraper-start-url":
@@ -255,7 +241,6 @@ app.get("/", (req, res) => {
               "https://f.roocdn.com/images/menu_items/1323287/item-image.jpg",
             popular: true
           },
-          {},
           {
             id: "1519055545-100",
             "web-scraper-start-url":
@@ -266,9 +251,6 @@ app.get("/", (req, res) => {
             picture:
               "https://f.roocdn.com/images/menu_items/3637782/item-image.jpg"
           },
-
-          {},
-
 
           {
             id: "1519055545-101",
@@ -288,8 +270,6 @@ app.get("/", (req, res) => {
             description: "",
             price: "6.60",
           },
-
-          {},
           {
             id: "1519055545-103",
             "web-scraper-start-url":
@@ -310,8 +290,6 @@ app.get("/", (req, res) => {
             price: "6.60",
             picture: "https://www.votregateau.fr/media/catalog/product/cache/bed4194fd62a4702d6ef91796c27bc2c/a/p/apfel-zimt.jpg",
           },
-
-          {},
           {
             id: "1519055545-105",
             "web-scraper-start-url":
@@ -321,8 +299,6 @@ app.get("/", (req, res) => {
             picture: "https://liliebakery.fr/wp-content/uploads/2022/02/Muffins-banane-chocolat-Lilie-Bakery-500x500.jpg",
             price: "6.60",
           },
-
-          {},
           {
             id: "1519055545-106",
             "web-scraper-start-url":
@@ -333,8 +309,6 @@ app.get("/", (req, res) => {
             picture:
               "https://f.roocdn.com/images/menu_items/1323275/item-image.jpg"
           },
-
-          {},
           {
             id: "1519055545-107",
             "web-scraper-start-url":
@@ -344,7 +318,6 @@ app.get("/", (req, res) => {
             picture: "https://panholdimages.blob.core.windows.net/panhold-images/205665_pain-multicereales_px_0000_2021_md.jpg",
             price: "6.60",
           },
-          {},
           {
             id: "1519055545-108",
             "web-scraper-start-url":
@@ -468,8 +441,6 @@ app.get("/", (req, res) => {
               "https://f.roocdn.com/images/menu_items/1323299/item-image.jpg",
               price: "6.90",
           },
-
-          {},
           {
             id: "1519055545-118",
             "web-scraper-start-url":
@@ -479,7 +450,6 @@ app.get("/", (req, res) => {
             picture: "https://static.750g.com/images/1200-630/8a74c79b67513047a00278f867afe7ff/tartine-a-lavocat-poulet-grille-et-tomates-sechees.jpg",
             price: "6.90",
           },
-          {},
           {
             id: "1519055545-119",
             "web-scraper-start-url":
@@ -490,7 +460,6 @@ app.get("/", (req, res) => {
             price: "6.90",
             popular: true
           },
-          {},
           {
             id: "1519055545-120",
             "web-scraper-start-url":
@@ -501,7 +470,6 @@ app.get("/", (req, res) => {
               "https://f.roocdn.com/images/menu_items/4607227/item-image.jpg",
               price: "6.90",
           },
-          {},
           {
             id: "1519055545-121",
             "web-scraper-start-url":
@@ -532,7 +500,6 @@ app.get("/", (req, res) => {
               picture:"https://media-cdn.tripadvisor.com/media/photo-s/09/b6/e9/d2/dejeuner-du-boulanger.jpg",
             price: "6.90",
           },
-          {},
           {
             id: "1519055545-123",
             "web-scraper-start-url":
@@ -542,7 +509,6 @@ app.get("/", (req, res) => {
             picture:'https://www.papillesetpupilles.fr/wp-content/uploads/2020/10/Soupe-de-le%CC%81gumes.jpg',
             price: "6.90"
           },
-          {},
           {
             id: "1519055545-126",
             "web-scraper-start-url":
@@ -554,8 +520,6 @@ app.get("/", (req, res) => {
             price: "6.90",
            
           },
-
-          {},
           {
             id: "1519055545-124",
             "web-scraper-start-url":
@@ -567,7 +531,6 @@ app.get("/", (req, res) => {
             price: "6.90",
             popular: true
           },
-          {},
           {
             id: "1519055545-127",
             "web-scraper-start-url":
@@ -580,7 +543,6 @@ app.get("/", (req, res) => {
             price: "6.90",
            
           },
-          {},
           {
             id: "1519055545-128",
             "web-scraper-start-url":
@@ -610,7 +572,6 @@ app.get("/", (req, res) => {
 
             price: "20.90",
           },
-          {},
           {
             id: "1519055545-130",
             "web-scraper-start-url":
@@ -633,8 +594,6 @@ app.get("/", (req, res) => {
             picture:
               "https://res.cloudinary.com/hv9ssmzrz/image/fetch/c_fill,f_auto,h_387,q_auto,w_650/https://s3-eu-west-1.amazonaws.com/images-ca-1-0-1-eu/tag_photos/original/2426/plat_principal_flickr_2304576748_f79c906b85_b.jpg"
           },
-
-          {},
           {
             id: "1519055545-132",
             "web-scraper-start-url":
@@ -646,7 +605,6 @@ app.get("/", (req, res) => {
             price: "6.90",
             popular: true
           },
-          {},
           {
             id: "1519055545-133",
             "web-scraper-start-url":
