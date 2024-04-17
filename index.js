@@ -38,8 +38,8 @@ app.get("/", (req, res) => {
                 id: "1519055545-80",
                 title: "Salade de pâques en famille",
                 description: "SALADE DE LÉGUMES FLEURS, VINAIGRETTE ÉMULSIONNÉE À LA MOUTARDE ET À L’ESTRAGON, OIGNONS MARINÉS ET QUINOA SOUFFLÉ",
-                price: '47,05',
                 picture: "https://m1.quebecormedia.com/emp/emp/2H4A3601bab6ca2a-1a95-484d-af78-af745ee482d3_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=2000&h=1125&width=1500",
+                price: '47,05',
                 popular: true,
     
               },
@@ -47,8 +47,8 @@ app.get("/", (req, res) => {
                 id: "1519055545-81",
                 title: "Tourte",
                 description: "TOURTE À LA FRICASSÉE DE JAMBON TOUPIE, CHAMPIGNONS ET POIREAU, BÉCHAMEL ET PERSIL",
-                price: '15,07',
                 picture: "https://m1.quebecormedia.com/emp/emp/2H4A3607_22bc699fc-92c2-419e-bda4-ea9227ad1ebd_ORIGINAL.jpg?impolicy=crop-resize&x=0&y=0&w=2000&h=1125&width=1500",
+                price: '15,07',
                 popular: true,
     
               },
@@ -268,6 +268,7 @@ app.get("/", (req, res) => {
               "https://deliveroo.fr/fr/menu/paris/3eme-temple/le-pain-quotidien-bretagne",
             title: "Grande brioche",
             description: "",
+            picture: "https://cuisinedesanges.files.wordpress.com/2009/11/brioche-1.jpg",
             price: "6.60",
           },
           {
@@ -480,7 +481,19 @@ app.get("/", (req, res) => {
             picture:
               "https://f.roocdn.com/images/menu_items/5250426/item-image.jpg",
               price: "6.90",
+          },
+          {
+            id: "1519055545-122",
+            "web-scraper-start-url":
+              "https://deliveroo.fr/fr/menu/paris/3eme-temple/le-pain-quotidien-bretagne",
+            title: "Tartine  & Féta",
+            description:
+              "Super graines bio, grenade, concombre et roquette (Végétarien)",
+            picture:
+              "https://c8.alamy.com/compfr/cenm86/pain-grille-et-de-la-confiture-sur-fond-blanc-cenm86.jpg",
+              price: "5.90",
           }
+          
         ]
       },
 
@@ -491,7 +504,7 @@ app.get("/", (req, res) => {
         name: "Soupe & plats chauds",
         meals: [
           {
-            id: "1519055545-122",
+            id: "1519055545-123",
             "web-scraper-start-url":
               "https://deliveroo.fr/fr/menu/paris/3eme-temple/le-pain-quotidien-bretagne",
             title: "Le déjeuner du boulanger",
@@ -501,7 +514,7 @@ app.get("/", (req, res) => {
             price: "6.90",
           },
           {
-            id: "1519055545-123",
+            id: "1519055545-124",
             "web-scraper-start-url":
               "https://deliveroo.fr/fr/menu/paris/3eme-temple/le-pain-quotidien-bretagne",
             title: "Soupe du jour aux légumes bio (100% végétalien)",
@@ -510,7 +523,7 @@ app.get("/", (req, res) => {
             price: "6.90"
           },
           {
-            id: "1519055545-126",
+            id: "1519055545-125",
             "web-scraper-start-url":
               "https://deliveroo.fr/fr/menu/paris/3eme-temple/le-pain-quotidien-bretagne",
             title: "Pot-au-feu de légumes bio, curry bio et poulet grillé",
@@ -521,7 +534,7 @@ app.get("/", (req, res) => {
            
           },
           {
-            id: "1519055545-124",
+            id: "1519055545-126",
             "web-scraper-start-url":
               "https://deliveroo.fr/fr/menu/paris/3eme-temple/le-pain-quotidien-bretagne",
             title:
@@ -639,7 +652,20 @@ app.get("/", (req, res) => {
             picture: "https://media-cdn.tripadvisor.com/media/photo-s/19/f4/6a/fd/exemple-de-plats-de-resistance.jpg",
             price: "11.90",
             popular: true,
-          }
+          },
+          {
+            id: "1519055545-136",
+            "web-scraper-start-url":
+              "",
+            title:
+              "plats de resistance gourmand avec viande et frites",
+            description: "plats de resistance gourmand avec pomme de terre",
+            picture: "https://www.photoculinaire.fr/wp-content/uploads/2017/10/dos-de-grenadier-au-lait-de-coco-et-curry.jpg",
+            price: "12.90",
+            popular: true,
+          },
+          
+          
         ]
       
       },
